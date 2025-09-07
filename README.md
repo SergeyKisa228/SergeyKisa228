@@ -16,6 +16,7 @@ I develop and optimize firmware for STM32 (Cortex-M) and AVR microcontrollers (A
 *   **Real-Time Operating Systems:** Development and debugging of multitasking applications in **FreeRTOS** (tasks, queues, semaphores, mutexes).
 *   **Debugging & Diagnostics:** Comprehensive debugging using **JTAG/SWD (ST-Link, J-Link)**, logging, memory dump analysis, using oscilloscopes and logic analyzers to solve complex hardware/software issues.
 *   **Energy Saving:** Implementation of advanced low-power modes for battery-operated devices.
+  
 ----------------------‐-----------------------
 
 ### My Technical Stack
