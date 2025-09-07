@@ -4,6 +4,7 @@
 # Middle Embedded C Developer (STM32, AVR, FreeRTOS)
 
 I develop and optimize firmware for STM32 (Cortex-M) and AVR microcontrollers (ATmega, ATtiny), focusing on robust and efficient code architecture.
+
 ----------------------‐-----------------------
 
 ### My Core Competencies & Skills
@@ -20,26 +21,36 @@ I develop and optimize firmware for STM32 (Cortex-M) and AVR microcontrollers (A
 ### My Technical Stack
 
 — **Languages:** C (MISRA-oriented), basic Assembler.
+
 — **MCU:** STM32 (STM32F1xx, F4xx, G0xx), AVR (ATmega328P, ATtiny).
+
 — **Protocols:** UART, SPI, I2C, 1-Wire, USB (CDC, HID), CAN.
+
 — **Development:** Bare-Metal, FreeRTOS.
+
 — **Tools:** STM32CubeIDE, STM32CubeMX, Keil uVision, Atmel Studio, VS Code, Git, Proteus.
+
 ----------------------‐-----------------------
 
 ### What I Have Implemented
 
 +++ Full-cycle firmware development for STM32 devices using FreeRTOS.
-+++ Design of optimized low-level drivers (LL/HAL) for sensors, displays (LCD, OLED), and actuators.
-+++ Complex UART communication protocols (modbus, custom packet-based).
-+++ USB HID devices for user input emulation.
-+++ Deep optimization of power consumption for autonomous devices.
-+++ Sensor data acquisition + transmission via UART/USB/CAN.
-+++ Refactoring and porting of legacy code from AVR to STM32.
-+++ Relay/motor control via UART/GPIO.
-+++ GPS data parsing (NMEA).
 
-[My GitHub: https://github.com/SergeyKisa228](https://github.com/SergeyKisa228)
-----------------------‐-----------------------
++++ Design of optimized low-level drivers (LL/HAL) for sensors, displays (LCD, OLED), and actuators.
+
++++ Complex UART communication protocols (modbus, custom packet-based).
+
++++ USB HID devices for user input emulation.
+
++++ Deep optimization of power consumption for autonomous devices.
+
++++ Sensor data acquisition + transmission via UART/USB/CAN.
+
++++ Refactoring and porting of legacy code from AVR to STM32.
+
++++ Relay/motor control via UART/GPIO.
+
++++ GPS data parsing (NMEA).
 
 I am aiming to join a strong team as a **Middle Embedded Developer** to apply my expertise, take part in architectural decisions, and tackle complex technical challenges.
 
