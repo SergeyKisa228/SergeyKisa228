@@ -10,11 +10,17 @@ I develop and optimize firmware for STM32 (Cortex-M) and AVR microcontrollers (A
 ### My Core Competencies & Skills
 
 *   **Architecture & Development:** Deep code optimization (memory, performance), designing modular software architecture, developing and maintaining peripheral drivers, working with legacy code (refactoring, optimization).
+  
 *   **STM32 Microcontrollers:** Deep understanding of STM32 families (F1, F4, G0). Confident work across all abstraction levels: **direct register control (CMSIS), low-level libraries (LL)**, and high-level **(HAL)**. Clock configuration (RCC), interrupt handling (NVIC), power management (Sleep, Stop, Standby).
+  
 *   **Low-Level Work:** Expert understanding of documentation (Datasheet, Reference Manual), direct peripheral control via registers (AVR/STM32).
+  
 *   **Peripherals & Protocols:** Extensive experience with: **USART, I2C, SPI, CAN, USB (CDC/HID), RTC, Watchdog, DMA**, timers (PWM, input capture), ADC/DAC.
+  
 *   **Real-Time Operating Systems:** Development and debugging of multitasking applications in **FreeRTOS** (tasks, queues, semaphores, mutexes).
+  
 *   **Debugging & Diagnostics:** Comprehensive debugging using **JTAG/SWD (ST-Link, J-Link)**, logging, memory dump analysis, using oscilloscopes and logic analyzers to solve complex hardware/software issues.
+  
 *   **Energy Saving:** Implementation of advanced low-power modes for battery-operated devices.
   
 ----------------------‐-----------------------
